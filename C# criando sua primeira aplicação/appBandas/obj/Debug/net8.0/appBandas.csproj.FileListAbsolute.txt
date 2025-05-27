@@ -1,0 +1,14 @@
+C:\C#\appBandas\bin\Debug\net8.0\appBandas.exe
+C:\C#\appBandas\bin\Debug\net8.0\appBandas.deps.json
+C:\C#\appBandas\bin\Debug\net8.0\appBandas.runtimeconfig.json
+C:\C#\appBandas\bin\Debug\net8.0\appBandas.dll
+C:\C#\appBandas\bin\Debug\net8.0\appBandas.pdb
+C:\C#\appBandas\obj\Debug\net8.0\appBandas.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\appBandas\obj\Debug\net8.0\appBandas.AssemblyInfoInputs.cache
+C:\C#\appBandas\obj\Debug\net8.0\appBandas.AssemblyInfo.cs
+C:\C#\appBandas\obj\Debug\net8.0\appBandas.csproj.CoreCompileInputs.cache
+C:\C#\appBandas\obj\Debug\net8.0\appBandas.dll
+C:\C#\appBandas\obj\Debug\net8.0\refint\appBandas.dll
+C:\C#\appBandas\obj\Debug\net8.0\appBandas.pdb
+C:\C#\appBandas\obj\Debug\net8.0\appBandas.genruntimeconfig.cache
+C:\C#\appBandas\obj\Debug\net8.0\ref\appBandas.dll

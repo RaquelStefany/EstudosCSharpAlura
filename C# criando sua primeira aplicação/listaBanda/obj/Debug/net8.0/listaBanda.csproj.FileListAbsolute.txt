@@ -1,0 +1,14 @@
+C:\C#\listaBanda\obj\Debug\net8.0\listaBanda.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\listaBanda\obj\Debug\net8.0\listaBanda.AssemblyInfoInputs.cache
+C:\C#\listaBanda\obj\Debug\net8.0\listaBanda.AssemblyInfo.cs
+C:\C#\listaBanda\obj\Debug\net8.0\listaBanda.csproj.CoreCompileInputs.cache
+C:\C#\listaBanda\bin\Debug\net8.0\listaBanda.exe
+C:\C#\listaBanda\bin\Debug\net8.0\listaBanda.deps.json
+C:\C#\listaBanda\bin\Debug\net8.0\listaBanda.runtimeconfig.json
+C:\C#\listaBanda\bin\Debug\net8.0\listaBanda.dll
+C:\C#\listaBanda\bin\Debug\net8.0\listaBanda.pdb
+C:\C#\listaBanda\obj\Debug\net8.0\listaBanda.dll
+C:\C#\listaBanda\obj\Debug\net8.0\refint\listaBanda.dll
+C:\C#\listaBanda\obj\Debug\net8.0\listaBanda.pdb
+C:\C#\listaBanda\obj\Debug\net8.0\listaBanda.genruntimeconfig.cache
+C:\C#\listaBanda\obj\Debug\net8.0\ref\listaBanda.dll

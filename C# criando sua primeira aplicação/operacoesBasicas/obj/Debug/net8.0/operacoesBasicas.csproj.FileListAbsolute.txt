@@ -1,0 +1,14 @@
+C:\C#\operacoesBasicas\obj\Debug\net8.0\operacoesBasicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\operacoesBasicas\obj\Debug\net8.0\operacoesBasicas.AssemblyInfoInputs.cache
+C:\C#\operacoesBasicas\obj\Debug\net8.0\operacoesBasicas.AssemblyInfo.cs
+C:\C#\operacoesBasicas\obj\Debug\net8.0\operacoesBasicas.csproj.CoreCompileInputs.cache
+C:\C#\operacoesBasicas\bin\Debug\net8.0\operacoesBasicas.exe
+C:\C#\operacoesBasicas\bin\Debug\net8.0\operacoesBasicas.deps.json
+C:\C#\operacoesBasicas\bin\Debug\net8.0\operacoesBasicas.runtimeconfig.json
+C:\C#\operacoesBasicas\bin\Debug\net8.0\operacoesBasicas.dll
+C:\C#\operacoesBasicas\bin\Debug\net8.0\operacoesBasicas.pdb
+C:\C#\operacoesBasicas\obj\Debug\net8.0\operacoesBasicas.dll
+C:\C#\operacoesBasicas\obj\Debug\net8.0\refint\operacoesBasicas.dll
+C:\C#\operacoesBasicas\obj\Debug\net8.0\operacoesBasicas.pdb
+C:\C#\operacoesBasicas\obj\Debug\net8.0\operacoesBasicas.genruntimeconfig.cache
+C:\C#\operacoesBasicas\obj\Debug\net8.0\ref\operacoesBasicas.dll
