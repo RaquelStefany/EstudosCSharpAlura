@@ -12,3 +12,18 @@ C:\C#\appBandas\obj\Debug\net8.0\refint\appBandas.dll
 C:\C#\appBandas\obj\Debug\net8.0\appBandas.pdb
 C:\C#\appBandas\obj\Debug\net8.0\appBandas.genruntimeconfig.cache
 C:\C#\appBandas\obj\Debug\net8.0\ref\appBandas.dll
+F:\Cursos e Projetos\EstudosCSharpAlura\01 - C# criando sua primeira aplicação\appBandas\obj\Debug\net8.0\appBandas.GeneratedMSBuildEditorConfig.editorconfig
+F:\Cursos e Projetos\EstudosCSharpAlura\01 - C# criando sua primeira aplicação\appBandas\obj\Debug\net8.0\appBandas.AssemblyInfoInputs.cache
+F:\Cursos e Projetos\EstudosCSharpAlura\01 - C# criando sua primeira aplicação\appBandas\obj\Debug\net8.0\appBandas.AssemblyInfo.cs
+F:\Cursos e Projetos\EstudosCSharpAlura\01 - C# criando sua primeira aplicação\appBandas\obj\Debug\net8.0\appBandas.csproj.CoreCompileInputs.cache
+F:\Cursos e Projetos\EstudosCSharpAlura\01 - C# criando sua primeira aplicação\appBandas\obj\Debug\net8.0\appBandas.sourcelink.json
+F:\Cursos e Projetos\EstudosCSharpAlura\01 - C# criando sua primeira aplicação\appBandas\obj\Debug\net8.0\appBandas.dll
+F:\Cursos e Projetos\EstudosCSharpAlura\01 - C# criando sua primeira aplicação\appBandas\obj\Debug\net8.0\refint\appBandas.dll
+F:\Cursos e Projetos\EstudosCSharpAlura\01 - C# criando sua primeira aplicação\appBandas\obj\Debug\net8.0\appBandas.pdb
+F:\Cursos e Projetos\EstudosCSharpAlura\01 - C# criando sua primeira aplicação\appBandas\bin\Debug\net8.0\appBandas.exe
+F:\Cursos e Projetos\EstudosCSharpAlura\01 - C# criando sua primeira aplicação\appBandas\bin\Debug\net8.0\appBandas.deps.json
+F:\Cursos e Projetos\EstudosCSharpAlura\01 - C# criando sua primeira aplicação\appBandas\bin\Debug\net8.0\appBandas.runtimeconfig.json
+F:\Cursos e Projetos\EstudosCSharpAlura\01 - C# criando sua primeira aplicação\appBandas\bin\Debug\net8.0\appBandas.dll
+F:\Cursos e Projetos\EstudosCSharpAlura\01 - C# criando sua primeira aplicação\appBandas\bin\Debug\net8.0\appBandas.pdb
+F:\Cursos e Projetos\EstudosCSharpAlura\01 - C# criando sua primeira aplicação\appBandas\obj\Debug\net8.0\appBandas.genruntimeconfig.cache
+F:\Cursos e Projetos\EstudosCSharpAlura\01 - C# criando sua primeira aplicação\appBandas\obj\Debug\net8.0\ref\appBandas.dll
