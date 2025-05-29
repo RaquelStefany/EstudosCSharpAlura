@@ -1,0 +1,15 @@
+F:\Cursos e Projetos\EstudosCSharpAlura\02 - C# aplicando a Orientação a Objetos\ScrrenSound\bin\Debug\net8.0\ScrrenSound.exe
+F:\Cursos e Projetos\EstudosCSharpAlura\02 - C# aplicando a Orientação a Objetos\ScrrenSound\bin\Debug\net8.0\ScrrenSound.deps.json
+F:\Cursos e Projetos\EstudosCSharpAlura\02 - C# aplicando a Orientação a Objetos\ScrrenSound\bin\Debug\net8.0\ScrrenSound.runtimeconfig.json
+F:\Cursos e Projetos\EstudosCSharpAlura\02 - C# aplicando a Orientação a Objetos\ScrrenSound\bin\Debug\net8.0\ScrrenSound.dll
+F:\Cursos e Projetos\EstudosCSharpAlura\02 - C# aplicando a Orientação a Objetos\ScrrenSound\bin\Debug\net8.0\ScrrenSound.pdb
+F:\Cursos e Projetos\EstudosCSharpAlura\02 - C# aplicando a Orientação a Objetos\ScrrenSound\obj\Debug\net8.0\ScrrenSound.GeneratedMSBuildEditorConfig.editorconfig
+F:\Cursos e Projetos\EstudosCSharpAlura\02 - C# aplicando a Orientação a Objetos\ScrrenSound\obj\Debug\net8.0\ScrrenSound.AssemblyInfoInputs.cache
+F:\Cursos e Projetos\EstudosCSharpAlura\02 - C# aplicando a Orientação a Objetos\ScrrenSound\obj\Debug\net8.0\ScrrenSound.AssemblyInfo.cs
+F:\Cursos e Projetos\EstudosCSharpAlura\02 - C# aplicando a Orientação a Objetos\ScrrenSound\obj\Debug\net8.0\ScrrenSound.csproj.CoreCompileInputs.cache
+F:\Cursos e Projetos\EstudosCSharpAlura\02 - C# aplicando a Orientação a Objetos\ScrrenSound\obj\Debug\net8.0\ScrrenSound.sourcelink.json
+F:\Cursos e Projetos\EstudosCSharpAlura\02 - C# aplicando a Orientação a Objetos\ScrrenSound\obj\Debug\net8.0\ScrrenSound.dll
+F:\Cursos e Projetos\EstudosCSharpAlura\02 - C# aplicando a Orientação a Objetos\ScrrenSound\obj\Debug\net8.0\refint\ScrrenSound.dll
+F:\Cursos e Projetos\EstudosCSharpAlura\02 - C# aplicando a Orientação a Objetos\ScrrenSound\obj\Debug\net8.0\ScrrenSound.pdb
+F:\Cursos e Projetos\EstudosCSharpAlura\02 - C# aplicando a Orientação a Objetos\ScrrenSound\obj\Debug\net8.0\ScrrenSound.genruntimeconfig.cache
+F:\Cursos e Projetos\EstudosCSharpAlura\02 - C# aplicando a Orientação a Objetos\ScrrenSound\obj\Debug\net8.0\ref\ScrrenSound.dll
